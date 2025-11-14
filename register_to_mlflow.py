@@ -36,7 +36,7 @@ version_tags = {
 
 # Register model
 model.register_to_mlflow(
-    artifact_path="models",
+    artifact_path="model",
     registered_model_name="lcls_fel_surrogate",
     tags=model_tags,
     version_tags=version_tags
