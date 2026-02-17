@@ -926,13 +926,13 @@ input_variables:
     is_constant: false
     value_range: [-15.0, 15.0]
     value_range_tolerance: 1.0e-08
-  XRMS on VCC:
+  CAMR:IN20:186:XRMS:
     variable_class: ScalarVariable
     default_value: 329.86488893602444
     is_constant: false
     value_range: [300.00012967742794, 349.9998632337955]
     value_range_tolerance: 1.0e-08
-  YRMS on VCC:
+  CAMR:IN20:186:YRMS:
     variable_class: ScalarVariable
     default_value: 329.6774535132277
     is_constant: false
