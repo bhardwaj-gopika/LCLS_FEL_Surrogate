@@ -24,22 +24,19 @@ def main():
     
     # Get outputs
     outputs = ltmodel.get(ltmodel.torch_model.output_names)
-    print(f"Outputs: {outputs}")
+    print(f"\nOutputs: {outputs}")
     
     # Get inputs (to verify what was set)
     inputs = ltmodel.get(ltmodel.torch_model.input_names)
-    print(f"Inputs: {inputs}")
-    
-    # Show all supported variables
-    print("\nSupported variables:")
-    print(f"  Input variables: {ltmodel.torch_model.input_names}")
-    print(f"  Output variables: {ltmodel.torch_model.output_names}")
+    print(f"\nInputs: {inputs}")
     
     # Test reset functionality
     ltmodel.reset()
-    inputs_after_reset = ltmodel.get(ltmodel.torch_model.input_names)
-    print(f"Inputs after reset: {inputs_after_reset}")
 
+    # Show all supported variables
+    print("\nSupported variables:")
+    print(f"\nInput variables: {ltmodel.torch_model.input_names}")
+    print(f"\nOutput variables: {ltmodel.torch_model.output_names}")
 
 if __name__ == "__main__":
     main()
