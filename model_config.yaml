@@ -1765,6 +1765,7 @@ input_variables:
     - 3502.705322265625
     - 5997.24365234375
     value_range_tolerance: 1.0e-08
+    units: MeV
   ACCL:LI25:1:ADES:
     variable_class: TorchScalarVariable
     default_value: 6133.2021484375
@@ -1773,6 +1774,7 @@ input_variables:
     - 5606.73388671875
     - 8023.0810546875
     value_range_tolerance: 1.0e-08
+    units: MeV
   ACCL:LI21:1:L1S_S_PV:
     variable_class: TorchScalarVariable
     default_value: -22.458297729492188
@@ -1799,6 +1801,7 @@ input_variables:
     - -44.52250289916992
     - -26.240581512451172
     value_range_tolerance: 1.0e-08
+    units: Degrees
   CAMR:IN20:186:XRMS:
     variable_class: TorchScalarVariable
     default_value: 334.7821044921875
@@ -2509,6 +2512,7 @@ input_variables:
     - 12.887749671936035
     - 19.842500686645508
     value_range_tolerance: 1.0e-08
+    units: mm
   PHAS:UNDH:1595:GapAct:
     variable_class: TorchScalarVariable
     default_value: 16.92675018310547
@@ -2787,6 +2791,7 @@ input_variables:
     - 7.279615879058838
     - 7.818066120147705
     value_range_tolerance: 1.0e-08
+    units: mm
   USEG:UNDH:1550:GapAct:
     variable_class: TorchScalarVariable
     default_value: 7.30649995803833
