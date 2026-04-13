@@ -9,7 +9,6 @@ input_variables:
     value_range:
     - 3.2707419395446777
     - 7.083395004272461
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:221:BCTRL:
     variable_class: TorchScalarVariable
@@ -18,7 +17,6 @@ input_variables:
     value_range:
     - -0.7424343228340149
     - 0.2432546466588974
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:243:BCTRL:
     variable_class: TorchScalarVariable
@@ -27,7 +25,6 @@ input_variables:
     value_range:
     - -0.0007149674347601831
     - -0.0006156182498671114
-    value_range_tolerance: 1.0e-08
     units: kG-m
   QUAD:LI21:251:BCTRL:
     variable_class: TorchScalarVariable
@@ -36,7 +33,6 @@ input_variables:
     value_range:
     - -0.7296757698059082
     - 0.25308719277381897
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:271:BCTRL:
     variable_class: TorchScalarVariable
@@ -45,7 +41,6 @@ input_variables:
     value_range:
     - -7.801762104034424
     - -4.287487983703613
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:335:BCTRL:
     variable_class: TorchScalarVariable
@@ -54,7 +49,6 @@ input_variables:
     value_range:
     - -5.428651332855225
     - -5.321958065032959
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:713:BCTRL:
     variable_class: TorchScalarVariable
@@ -63,7 +57,6 @@ input_variables:
     value_range:
     - 23.610397338867188
     - 35.42658615112305
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:740:BCTRL:
     variable_class: TorchScalarVariable
@@ -72,7 +65,6 @@ input_variables:
     value_range:
     - -0.9996497631072998
     - 1.100592851638794
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:860:BCTRL:
     variable_class: TorchScalarVariable
@@ -81,7 +73,6 @@ input_variables:
     value_range:
     - -1.2825469970703125
     - 2.1002092361450195
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:892:BCTRL:
     variable_class: TorchScalarVariable
@@ -90,7 +81,6 @@ input_variables:
     value_range:
     - -40.78890609741211
     - -27.187170028686523
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:902:BCTRL:
     variable_class: TorchScalarVariable
@@ -99,7 +89,6 @@ input_variables:
     value_range:
     - 11.556938171386719
     - 17.337291717529297
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:CLTH:140:BCTRL:
     variable_class: TorchScalarVariable
@@ -108,7 +97,6 @@ input_variables:
     value_range:
     - -21.91339683532715
     - -21.316192626953125
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:CLTH:170:BCTRL:
     variable_class: TorchScalarVariable
@@ -117,7 +105,6 @@ input_variables:
     value_range:
     - 11.570372581481934
     - 11.913098335266113
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:BSYH:445:BCTRL:
     variable_class: TorchScalarVariable
@@ -126,7 +113,6 @@ input_variables:
     value_range:
     - 38.6727409362793
     - 39.68069076538086
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:285:BCTRL:
     variable_class: TorchScalarVariable
@@ -135,7 +121,6 @@ input_variables:
     value_range:
     - -69.82388305664062
     - -58.627498626708984
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:295:BCTRL:
     variable_class: TorchScalarVariable
@@ -144,7 +129,6 @@ input_variables:
     value_range:
     - -69.89398956298828
     - -62.51885986328125
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:385:BCTRL:
     variable_class: TorchScalarVariable
@@ -153,7 +137,6 @@ input_variables:
     value_range:
     - -69.84967803955078
     - -58.85036849975586
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:395:BCTRL:
     variable_class: TorchScalarVariable
@@ -162,7 +145,6 @@ input_variables:
     value_range:
     - -69.81681823730469
     - -58.62387466430664
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:440:BCTRL:
     variable_class: TorchScalarVariable
@@ -171,7 +153,6 @@ input_variables:
     value_range:
     - -5.002049922943115
     - 4.872499942779541
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:460:BCTRL:
     variable_class: TorchScalarVariable
@@ -180,7 +161,6 @@ input_variables:
     value_range:
     - -4.96889591217041
     - 4.391031742095947
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:485:BCTRL:
     variable_class: TorchScalarVariable
@@ -189,7 +169,6 @@ input_variables:
     value_range:
     - -69.84385681152344
     - -58.85063934326172
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:495:BCTRL:
     variable_class: TorchScalarVariable
@@ -198,7 +177,6 @@ input_variables:
     value_range:
     - -69.82984924316406
     - -58.84379959106445
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:585:BCTRL:
     variable_class: TorchScalarVariable
@@ -207,7 +185,6 @@ input_variables:
     value_range:
     - -69.81290435791016
     - -58.6135139465332
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:595:BCTRL:
     variable_class: TorchScalarVariable
@@ -216,7 +193,6 @@ input_variables:
     value_range:
     - -69.88025665283203
     - -58.66910171508789
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:DMPH:300:BCTRL:
     variable_class: TorchScalarVariable
@@ -225,7 +201,6 @@ input_variables:
     value_range:
     - 27.602787017822266
     - 32.03553771972656
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:DMPH:380:BCTRL:
     variable_class: TorchScalarVariable
@@ -234,7 +209,6 @@ input_variables:
     value_range:
     - -25.263795852661133
     - -22.069438934326172
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:DMPH:500:BCTRL:
     variable_class: TorchScalarVariable
@@ -243,7 +217,6 @@ input_variables:
     value_range:
     - -24.01908302307129
     - -23.397724151611328
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:DMPH:600:BCTRL:
     variable_class: TorchScalarVariable
@@ -252,7 +225,6 @@ input_variables:
     value_range:
     - -24.024883270263672
     - -20.174333572387695
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:BSYH:465:BCTRL:
     variable_class: TorchScalarVariable
@@ -261,7 +233,6 @@ input_variables:
     value_range:
     - -36.393035888671875
     - -31.709379196166992
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:BSYH:640:BCTRL:
     variable_class: TorchScalarVariable
@@ -270,7 +241,6 @@ input_variables:
     value_range:
     - 17.822553634643555
     - 27.48724365234375
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:BSYH:735:BCTRL:
     variable_class: TorchScalarVariable
@@ -279,7 +249,6 @@ input_variables:
     value_range:
     - -18.838489532470703
     - -17.74009132385254
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:BSYH:910:BCTRL:
     variable_class: TorchScalarVariable
@@ -288,7 +257,6 @@ input_variables:
     value_range:
     - 15.264426231384277
     - 18.11552619934082
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:110:BCTRL:
     variable_class: TorchScalarVariable
@@ -297,7 +265,6 @@ input_variables:
     value_range:
     - -55.97401428222656
     - -47.1643180847168
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:120:BCTRL:
     variable_class: TorchScalarVariable
@@ -306,7 +273,6 @@ input_variables:
     value_range:
     - 33.06697463989258
     - 39.2436637878418
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:180:BCTRL:
     variable_class: TorchScalarVariable
@@ -315,7 +281,6 @@ input_variables:
     value_range:
     - 99.60626220703125
     - 118.62828826904297
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:190:BCTRL:
     variable_class: TorchScalarVariable
@@ -324,7 +289,6 @@ input_variables:
     value_range:
     - -113.0712661743164
     - -95.2757797241211
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:130:BCTRL:
     variable_class: TorchScalarVariable
@@ -333,7 +297,6 @@ input_variables:
     value_range:
     - -70.038818359375
     - -59.015647888183594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:150:BCTRL:
     variable_class: TorchScalarVariable
@@ -342,7 +305,6 @@ input_variables:
     value_range:
     - 58.82075119018555
     - 70.06075286865234
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:170:BCTRL:
     variable_class: TorchScalarVariable
@@ -351,7 +313,6 @@ input_variables:
     value_range:
     - -70.10100555419922
     - -58.86089324951172
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:350:BCTRL:
     variable_class: TorchScalarVariable
@@ -360,7 +321,6 @@ input_variables:
     value_range:
     - 42.46773910522461
     - 50.56687545776367
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:450:BCTRL:
     variable_class: TorchScalarVariable
@@ -369,7 +329,6 @@ input_variables:
     value_range:
     - 42.292335510253906
     - 50.37962341308594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:550:BCTRL:
     variable_class: TorchScalarVariable
@@ -378,7 +337,6 @@ input_variables:
     value_range:
     - 41.99699020385742
     - 50.01803970336914
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:290:BCTRL:
     variable_class: TorchScalarVariable
@@ -387,7 +345,6 @@ input_variables:
     value_range:
     - 135.7318115234375
     - 139.2747802734375
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:390:BCTRL:
     variable_class: TorchScalarVariable
@@ -396,7 +353,6 @@ input_variables:
     value_range:
     - 117.06791687011719
     - 139.43606567382812
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:490:BCTRL:
     variable_class: TorchScalarVariable
@@ -405,7 +361,6 @@ input_variables:
     value_range:
     - 117.22069549560547
     - 139.11268615722656
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:590:BCTRL:
     variable_class: TorchScalarVariable
@@ -414,7 +369,6 @@ input_variables:
     value_range:
     - 117.35442352294922
     - 139.27085876464844
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:250:BCTRL:
     variable_class: TorchScalarVariable
@@ -423,7 +377,6 @@ input_variables:
     value_range:
     - 42.422725677490234
     - 50.346900939941406
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:620:BCTRL:
     variable_class: TorchScalarVariable
@@ -432,7 +385,6 @@ input_variables:
     value_range:
     - -54.6842155456543
     - -36.9230842590332
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:640:BCTRL:
     variable_class: TorchScalarVariable
@@ -441,7 +393,6 @@ input_variables:
     value_range:
     - 37.15061569213867
     - 58.81219482421875
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:660:BCTRL:
     variable_class: TorchScalarVariable
@@ -450,7 +401,6 @@ input_variables:
     value_range:
     - -77.35741424560547
     - -57.796470642089844
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:680:BCTRL:
     variable_class: TorchScalarVariable
@@ -459,7 +409,6 @@ input_variables:
     value_range:
     - 34.01578903198242
     - 62.26810073852539
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:720:BCTRL:
     variable_class: TorchScalarVariable
@@ -468,7 +417,6 @@ input_variables:
     value_range:
     - 13.143723487854004
     - 15.75007438659668
-    value_range_tolerance: 1.0e-08
     units: kG-m
   QUAD:LTUH:730:BCTRL:
     variable_class: TorchScalarVariable
@@ -477,7 +425,6 @@ input_variables:
     value_range:
     - -15.728804588317871
     - -13.961954116821289
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:740:BCTRL:
     variable_class: TorchScalarVariable
@@ -486,7 +433,6 @@ input_variables:
     value_range:
     - 13.198366165161133
     - 15.759831428527832
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:750:BCTRL:
     variable_class: TorchScalarVariable
@@ -495,7 +441,6 @@ input_variables:
     value_range:
     - -15.765908241271973
     - -13.997550010681152
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:760:BCTRL:
     variable_class: TorchScalarVariable
@@ -504,7 +449,6 @@ input_variables:
     value_range:
     - 13.13112735748291
     - 15.736696243286133
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:770:BCTRL:
     variable_class: TorchScalarVariable
@@ -513,7 +457,6 @@ input_variables:
     value_range:
     - -15.722893714904785
     - -13.120884895324707
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:820:BCTRL:
     variable_class: TorchScalarVariable
@@ -522,7 +465,6 @@ input_variables:
     value_range:
     - 21.836652755737305
     - 31.44784164428711
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:840:BCTRL:
     variable_class: TorchScalarVariable
@@ -531,7 +473,6 @@ input_variables:
     value_range:
     - -28.012258529663086
     - -24.921369552612305
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:860:BCTRL:
     variable_class: TorchScalarVariable
@@ -540,7 +481,6 @@ input_variables:
     value_range:
     - 17.5400333404541
     - 22.54979133605957
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LTUH:880:BCTRL:
     variable_class: TorchScalarVariable
@@ -549,7 +489,6 @@ input_variables:
     value_range:
     - -20.96946907043457
     - -19.381351470947266
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1380:BCTRL:
     variable_class: TorchScalarVariable
@@ -558,7 +497,6 @@ input_variables:
     value_range:
     - 29.987991333007812
     - 30.014312744140625
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1480:BCTRL:
     variable_class: TorchScalarVariable
@@ -567,7 +505,6 @@ input_variables:
     value_range:
     - -30.0033016204834
     - -29.99729347229004
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1580:BCTRL:
     variable_class: TorchScalarVariable
@@ -576,7 +513,6 @@ input_variables:
     value_range:
     - 29.99797248840332
     - 30.002107620239258
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1680:BCTRL:
     variable_class: TorchScalarVariable
@@ -585,7 +521,6 @@ input_variables:
     value_range:
     - -30.003171920776367
     - -29.9971866607666
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1780:BCTRL:
     variable_class: TorchScalarVariable
@@ -594,7 +529,6 @@ input_variables:
     value_range:
     - 29.997570037841797
     - 30.00188636779785
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1880:BCTRL:
     variable_class: TorchScalarVariable
@@ -603,7 +537,6 @@ input_variables:
     value_range:
     - -30.001985549926758
     - -29.997087478637695
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:1980:BCTRL:
     variable_class: TorchScalarVariable
@@ -612,7 +545,6 @@ input_variables:
     value_range:
     - 29.994216918945312
     - 30.006370544433594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2080:BCTRL:
     variable_class: TorchScalarVariable
@@ -621,7 +553,6 @@ input_variables:
     value_range:
     - -30.00302505493164
     - -29.997581481933594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2180:BCTRL:
     variable_class: TorchScalarVariable
@@ -630,7 +561,6 @@ input_variables:
     value_range:
     - 29.997495651245117
     - 30.0020809173584
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2280:BCTRL:
     variable_class: TorchScalarVariable
@@ -639,7 +569,6 @@ input_variables:
     value_range:
     - -30.002283096313477
     - -29.997661590576172
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2380:BCTRL:
     variable_class: TorchScalarVariable
@@ -648,7 +577,6 @@ input_variables:
     value_range:
     - 29.99715232849121
     - 30.00275421142578
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2480:BCTRL:
     variable_class: TorchScalarVariable
@@ -657,7 +585,6 @@ input_variables:
     value_range:
     - -30.002347946166992
     - -29.99751853942871
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2580:BCTRL:
     variable_class: TorchScalarVariable
@@ -666,7 +593,6 @@ input_variables:
     value_range:
     - 29.997821807861328
     - 30.002620697021484
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2680:BCTRL:
     variable_class: TorchScalarVariable
@@ -675,7 +601,6 @@ input_variables:
     value_range:
     - -30.001996994018555
     - -29.997228622436523
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2780:BCTRL:
     variable_class: TorchScalarVariable
@@ -684,7 +609,6 @@ input_variables:
     value_range:
     - 29.99728012084961
     - 30.001819610595703
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2880:BCTRL:
     variable_class: TorchScalarVariable
@@ -693,7 +617,6 @@ input_variables:
     value_range:
     - -30.013427734375
     - -29.995588302612305
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:2980:BCTRL:
     variable_class: TorchScalarVariable
@@ -702,7 +625,6 @@ input_variables:
     value_range:
     - 29.99782371520996
     - 30.003271102905273
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3080:BCTRL:
     variable_class: TorchScalarVariable
@@ -711,7 +633,6 @@ input_variables:
     value_range:
     - -30.00230598449707
     - -29.997459411621094
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3180:BCTRL:
     variable_class: TorchScalarVariable
@@ -720,7 +641,6 @@ input_variables:
     value_range:
     - 29.996400833129883
     - 30.003795623779297
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3280:BCTRL:
     variable_class: TorchScalarVariable
@@ -729,7 +649,6 @@ input_variables:
     value_range:
     - -30.002262115478516
     - -29.99651336669922
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3380:BCTRL:
     variable_class: TorchScalarVariable
@@ -738,7 +657,6 @@ input_variables:
     value_range:
     - 29.997285842895508
     - 30.003522872924805
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3480:BCTRL:
     variable_class: TorchScalarVariable
@@ -747,7 +665,6 @@ input_variables:
     value_range:
     - -30.002470016479492
     - -29.99711036682129
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3580:BCTRL:
     variable_class: TorchScalarVariable
@@ -756,7 +673,6 @@ input_variables:
     value_range:
     - 29.99619483947754
     - 30.004093170166016
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3680:BCTRL:
     variable_class: TorchScalarVariable
@@ -765,7 +681,6 @@ input_variables:
     value_range:
     - -30.003984451293945
     - -29.996126174926758
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3780:BCTRL:
     variable_class: TorchScalarVariable
@@ -774,7 +689,6 @@ input_variables:
     value_range:
     - 29.997133255004883
     - 30.00319480895996
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3880:BCTRL:
     variable_class: TorchScalarVariable
@@ -783,7 +697,6 @@ input_variables:
     value_range:
     - -30.002561569213867
     - -29.99714469909668
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:3980:BCTRL:
     variable_class: TorchScalarVariable
@@ -792,7 +705,6 @@ input_variables:
     value_range:
     - 29.994361877441406
     - 30.00579071044922
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4080:BCTRL:
     variable_class: TorchScalarVariable
@@ -801,7 +713,6 @@ input_variables:
     value_range:
     - -30.006589889526367
     - -29.99155616760254
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4180:BCTRL:
     variable_class: TorchScalarVariable
@@ -810,7 +721,6 @@ input_variables:
     value_range:
     - 29.99405860900879
     - 30.004716873168945
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4280:BCTRL:
     variable_class: TorchScalarVariable
@@ -819,7 +729,6 @@ input_variables:
     value_range:
     - -30.005260467529297
     - -29.993431091308594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4380:BCTRL:
     variable_class: TorchScalarVariable
@@ -828,7 +737,6 @@ input_variables:
     value_range:
     - 29.99149513244629
     - 30.00352668762207
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4480:BCTRL:
     variable_class: TorchScalarVariable
@@ -837,7 +745,6 @@ input_variables:
     value_range:
     - -30.007246017456055
     - -29.97597885131836
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4580:BCTRL:
     variable_class: TorchScalarVariable
@@ -846,7 +753,6 @@ input_variables:
     value_range:
     - 29.99628448486328
     - 30.009353637695312
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:UNDH:4680:BCTRL:
     variable_class: TorchScalarVariable
@@ -855,7 +761,6 @@ input_variables:
     value_range:
     - -41.023189544677734
     - -39.94914245605469
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -864,7 +769,6 @@ input_variables:
     value_range:
     - -8.62252426147461
     - -2.9184024333953857
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -873,7 +777,6 @@ input_variables:
     value_range:
     - -0.1839919537305832
     - -0.18380530178546906
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -882,7 +785,6 @@ input_variables:
     value_range:
     - -20.955387115478516
     - -13.969274520874023
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -891,7 +793,6 @@ input_variables:
     value_range:
     - 0.807345986366272
     - 1.2974697351455688
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -900,7 +801,6 @@ input_variables:
     value_range:
     - -1.6181596517562866
     - -0.9817104935646057
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -909,7 +809,6 @@ input_variables:
     value_range:
     - 1.2652913331985474
     - 1.8709330558776855
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -918,7 +817,6 @@ input_variables:
     value_range:
     - -2.3438212871551514
     - -1.5526777505874634
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -927,7 +825,6 @@ input_variables:
     value_range:
     - 1.8732759952545166
     - 2.8998312950134277
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -936,7 +833,6 @@ input_variables:
     value_range:
     - -3.4157297611236572
     - -2.152127742767334
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -945,7 +841,6 @@ input_variables:
     value_range:
     - 2.0494790077209473
     - 3.560842275619507
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -954,7 +849,6 @@ input_variables:
     value_range:
     - -4.522728443145752
     - -2.434352159500122
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -963,7 +857,6 @@ input_variables:
     value_range:
     - 2.675431728363037
     - 4.936089992523193
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -972,7 +865,6 @@ input_variables:
     value_range:
     - -5.76203727722168
     - -3.146383047103882
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -981,7 +873,6 @@ input_variables:
     value_range:
     - 3.7713868618011475
     - 6.909282684326172
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -990,7 +881,6 @@ input_variables:
     value_range:
     - -7.327755451202393
     - -3.9155988693237305
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -999,7 +889,6 @@ input_variables:
     value_range:
     - 4.332723140716553
     - 8.138812065124512
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI22:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1008,7 +897,6 @@ input_variables:
     value_range:
     - -7.293863296508789
     - -3.9421448707580566
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1017,7 +905,6 @@ input_variables:
     value_range:
     - 3.6991350650787354
     - 6.829252243041992
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1026,7 +913,6 @@ input_variables:
     value_range:
     - -7.275477409362793
     - -3.937861680984497
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1035,7 +921,6 @@ input_variables:
     value_range:
     - 3.627194404602051
     - 6.7084641456604
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1044,7 +929,6 @@ input_variables:
     value_range:
     - -7.48622465133667
     - -4.047740936279297
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1053,7 +937,6 @@ input_variables:
     value_range:
     - 4.294067859649658
     - 7.962332725524902
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1062,7 +945,6 @@ input_variables:
     value_range:
     - -8.897425651550293
     - -4.805255889892578
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1071,7 +953,6 @@ input_variables:
     value_range:
     - 5.585941314697266
     - 10.347235679626465
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI23:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1080,7 +961,6 @@ input_variables:
     value_range:
     - -10.765859603881836
     - -5.8162946701049805
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1089,7 +969,6 @@ input_variables:
     value_range:
     - 6.811530590057373
     - 11.965710639953613
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1098,7 +977,6 @@ input_variables:
     value_range:
     - -13.151202201843262
     - -7.702062129974365
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1107,7 +985,6 @@ input_variables:
     value_range:
     - 9.044830322265625
     - 15.84463119506836
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1116,7 +993,6 @@ input_variables:
     value_range:
     - -14.76771068572998
     - -9.022802352905273
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1125,7 +1001,6 @@ input_variables:
     value_range:
     - 6.159085750579834
     - 9.750685691833496
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:702:BCTRL:
     variable_class: TorchScalarVariable
@@ -1134,7 +1009,6 @@ input_variables:
     value_range:
     - -20.955387115478516
     - -13.969274520874023
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI24:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1143,7 +1017,6 @@ input_variables:
     value_range:
     - 11.556938171386719
     - 17.337291717529297
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1152,7 +1025,6 @@ input_variables:
     value_range:
     - 7.857098579406738
     - 11.652408599853516
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1161,7 +1033,6 @@ input_variables:
     value_range:
     - -8.348615646362305
     - -5.753606796264648
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1170,7 +1041,6 @@ input_variables:
     value_range:
     - 5.471653461456299
     - 7.811742782592773
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1179,7 +1049,6 @@ input_variables:
     value_range:
     - -7.65356969833374
     - -5.456874370574951
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1188,7 +1057,6 @@ input_variables:
     value_range:
     - 5.396615982055664
     - 7.85613489151001
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1197,7 +1065,6 @@ input_variables:
     value_range:
     - -8.188580513000488
     - -5.722440242767334
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1206,7 +1073,6 @@ input_variables:
     value_range:
     - 5.894128799438477
     - 8.821040153503418
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI25:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1215,7 +1081,6 @@ input_variables:
     value_range:
     - -8.701128005981445
     - -5.903156280517578
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1224,7 +1089,6 @@ input_variables:
     value_range:
     - 0.19921469688415527
     - 15.584007263183594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1233,7 +1097,6 @@ input_variables:
     value_range:
     - -15.154759407043457
     - -0.20027148723602295
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1242,7 +1105,6 @@ input_variables:
     value_range:
     - 0.20270586013793945
     - 19.882917404174805
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1251,7 +1113,6 @@ input_variables:
     value_range:
     - -19.614015579223633
     - -3.0157687664031982
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1260,7 +1121,6 @@ input_variables:
     value_range:
     - 5.45085334777832
     - 20.66390609741211
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1269,7 +1129,6 @@ input_variables:
     value_range:
     - -18.370912551879883
     - -5.957860946655273
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1278,7 +1137,6 @@ input_variables:
     value_range:
     - 4.757839679718018
     - 17.604393005371094
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI26:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1287,7 +1145,6 @@ input_variables:
     value_range:
     - -14.644014358520508
     - -1.6580276489257812
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1296,7 +1153,6 @@ input_variables:
     value_range:
     - 8.172499656677246
     - 11.214076042175293
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1305,7 +1161,6 @@ input_variables:
     value_range:
     - -11.98211669921875
     - -8.845065116882324
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1314,7 +1169,6 @@ input_variables:
     value_range:
     - 8.908507347106934
     - 11.973215103149414
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1323,7 +1177,6 @@ input_variables:
     value_range:
     - -12.33036994934082
     - -9.249858856201172
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1332,7 +1185,6 @@ input_variables:
     value_range:
     - 9.59332275390625
     - 12.69169807434082
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1341,7 +1193,6 @@ input_variables:
     value_range:
     - -12.907695770263672
     - -9.589673042297363
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1350,7 +1201,6 @@ input_variables:
     value_range:
     - 9.860147476196289
     - 13.635490417480469
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI27:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1359,7 +1209,6 @@ input_variables:
     value_range:
     - -13.421582221984863
     - -9.440723419189453
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1368,7 +1217,6 @@ input_variables:
     value_range:
     - 9.472262382507324
     - 13.893677711486816
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1377,7 +1225,6 @@ input_variables:
     value_range:
     - -14.007567405700684
     - -10.167932510375977
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1386,7 +1233,6 @@ input_variables:
     value_range:
     - 6.579861164093018
     - 13.932640075683594
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1395,7 +1241,6 @@ input_variables:
     value_range:
     - -14.213104248046875
     - -0.19370371103286743
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1404,7 +1249,6 @@ input_variables:
     value_range:
     - 3.7928245067596436
     - 14.216349601745605
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1413,7 +1257,6 @@ input_variables:
     value_range:
     - -14.55186939239502
     - -0.1930026412010193
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1422,7 +1265,6 @@ input_variables:
     value_range:
     - 4.67686128616333
     - 14.962789535522461
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI28:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1431,7 +1273,6 @@ input_variables:
     value_range:
     - -15.136317253112793
     - -10.62944507598877
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1440,7 +1281,6 @@ input_variables:
     value_range:
     - 11.162287712097168
     - 14.436914443969727
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1449,7 +1289,6 @@ input_variables:
     value_range:
     - -15.086411476135254
     - -11.917793273925781
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1458,7 +1297,6 @@ input_variables:
     value_range:
     - 11.776640892028809
     - 14.72998332977295
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1467,7 +1305,6 @@ input_variables:
     value_range:
     - -14.724255561828613
     - -12.009578704833984
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1476,7 +1313,6 @@ input_variables:
     value_range:
     - 12.262092590332031
     - 14.792816162109375
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1485,7 +1321,6 @@ input_variables:
     value_range:
     - -14.942991256713867
     - -12.557027816772461
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1494,7 +1329,6 @@ input_variables:
     value_range:
     - 13.038265228271484
     - 15.494569778442383
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI29:901:BCTRL:
     variable_class: TorchScalarVariable
@@ -1503,7 +1337,6 @@ input_variables:
     value_range:
     - -14.965811729431152
     - -12.749227523803711
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:201:BCTRL:
     variable_class: TorchScalarVariable
@@ -1512,7 +1345,6 @@ input_variables:
     value_range:
     - 13.056685447692871
     - 15.010658264160156
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:301:BCTRL:
     variable_class: TorchScalarVariable
@@ -1521,7 +1353,6 @@ input_variables:
     value_range:
     - -15.614253044128418
     - -13.801875114440918
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:401:BCTRL:
     variable_class: TorchScalarVariable
@@ -1530,7 +1361,6 @@ input_variables:
     value_range:
     - 13.69515609741211
     - 15.213142395019531
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:501:BCTRL:
     variable_class: TorchScalarVariable
@@ -1539,7 +1369,6 @@ input_variables:
     value_range:
     - -15.207056045532227
     - -13.957844734191895
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:601:BCTRL:
     variable_class: TorchScalarVariable
@@ -1548,7 +1377,6 @@ input_variables:
     value_range:
     - 14.037918090820312
     - 15.212827682495117
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:701:BCTRL:
     variable_class: TorchScalarVariable
@@ -1557,7 +1385,6 @@ input_variables:
     value_range:
     - -15.229225158691406
     - -14.343217849731445
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI30:801:BCTRL:
     variable_class: TorchScalarVariable
@@ -1566,7 +1393,6 @@ input_variables:
     value_range:
     - 17.74070930480957
     - 18.47154426574707
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:631:BCTRL:
     variable_class: TorchScalarVariable
@@ -1575,7 +1401,6 @@ input_variables:
     value_range:
     - 7.153985977172852
     - 7.1621880531311035
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:651:BCTRL:
     variable_class: TorchScalarVariable
@@ -1584,7 +1409,6 @@ input_variables:
     value_range:
     - -5.921041488647461
     - -5.817676544189453
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:731:BCTRL:
     variable_class: TorchScalarVariable
@@ -1593,7 +1417,6 @@ input_variables:
     value_range:
     - 10.724224090576172
     - 10.911758422851562
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:771:BCTRL:
     variable_class: TorchScalarVariable
@@ -1602,7 +1425,6 @@ input_variables:
     value_range:
     - -3.473116636276245
     - -3.41040301322937
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:781:BCTRL:
     variable_class: TorchScalarVariable
@@ -1611,7 +1433,6 @@ input_variables:
     value_range:
     - 6.627516269683838
     - 6.637024402618408
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:131:BCTRL:
     variable_class: TorchScalarVariable
@@ -1620,7 +1441,6 @@ input_variables:
     value_range:
     - -2.4352543354034424
     - -2.4310882091522217
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:161:BCTRL:
     variable_class: TorchScalarVariable
@@ -1629,7 +1449,6 @@ input_variables:
     value_range:
     - 1.3774464130401611
     - 1.379645586013794
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:278:BCTRL:
     variable_class: TorchScalarVariable
@@ -1638,7 +1457,6 @@ input_variables:
     value_range:
     - 5.390344142913818
     - 10.096536636352539
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:LI21:315:BCTRL:
     variable_class: TorchScalarVariable
@@ -1647,7 +1465,6 @@ input_variables:
     value_range:
     - 5.388442516326904
     - 5.799100399017334
-    value_range_tolerance: 1.0e-08
     units: kG
   SOLN:IN20:121:BCTRL:
     variable_class: TorchScalarVariable
@@ -1656,7 +1473,6 @@ input_variables:
     value_range:
     - 0.4750012755393982
     - 0.4898073077201843
-    value_range_tolerance: 1.0e-08
     units: kG-m
   SOLN:IN20:311:BCTRL:
     variable_class: TorchScalarVariable
@@ -1665,7 +1481,6 @@ input_variables:
     value_range:
     - -0.0006276898202486336
     - -0.000619793776422739
-    value_range_tolerance: 1.0e-08
     units: kG-m
   QUAD:IN20:121:BCTRL:
     variable_class: TorchScalarVariable
@@ -1674,7 +1489,6 @@ input_variables:
     value_range:
     - -0.012858917005360126
     - 0.014996109530329704
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:122:BCTRL:
     variable_class: TorchScalarVariable
@@ -1683,7 +1497,6 @@ input_variables:
     value_range:
     - -0.011106831952929497
     - 0.014521649107336998
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:361:BCTRL:
     variable_class: TorchScalarVariable
@@ -1692,7 +1505,6 @@ input_variables:
     value_range:
     - -4.05964994430542
     - -3.170670747756958
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:371:BCTRL:
     variable_class: TorchScalarVariable
@@ -1701,7 +1513,6 @@ input_variables:
     value_range:
     - 2.470209836959839
     - 3.0689961910247803
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:425:BCTRL:
     variable_class: TorchScalarVariable
@@ -1710,7 +1521,6 @@ input_variables:
     value_range:
     - -3.1995935440063477
     - -0.5901550054550171
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:441:BCTRL:
     variable_class: TorchScalarVariable
@@ -1719,7 +1529,6 @@ input_variables:
     value_range:
     - -0.538829505443573
     - 1.268821358680725
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:511:BCTRL:
     variable_class: TorchScalarVariable
@@ -1728,7 +1537,6 @@ input_variables:
     value_range:
     - 0.6183972358703613
     - 4.204927444458008
-    value_range_tolerance: 1.0e-08
     units: kG
   QUAD:IN20:525:BCTRL:
     variable_class: TorchScalarVariable
@@ -1737,7 +1545,6 @@ input_variables:
     value_range:
     - -3.698307514190674
     - -0.8770037889480591
-    value_range_tolerance: 1.0e-08
     units: kG
   ACCL:LI21:1:L1S_S_AV:
     variable_class: TorchScalarVariable
@@ -1746,7 +1553,6 @@ input_variables:
     value_range:
     - 100.00001525878906
     - 111.22259521484375
-    value_range_tolerance: 1.0e-08
     units: Megavolts
   ACCL:LI21:180:L1X_S_AV:
     variable_class: TorchScalarVariable
@@ -1755,7 +1561,6 @@ input_variables:
     value_range:
     - 6.948431968688965
     - 25.50543975830078
-    value_range_tolerance: 1.0e-08
     units: Megavolts
   ACCL:LI22:1:ADES:
     variable_class: TorchScalarVariable
@@ -1764,7 +1569,6 @@ input_variables:
     value_range:
     - 3502.705322265625
     - 5997.24365234375
-    value_range_tolerance: 1.0e-08
     units: MeV
   ACCL:LI25:1:ADES:
     variable_class: TorchScalarVariable
@@ -1773,7 +1577,6 @@ input_variables:
     value_range:
     - 5606.73388671875
     - 8023.0810546875
-    value_range_tolerance: 1.0e-08
     units: MeV
   ACCL:LI21:1:L1S_S_PV:
     variable_class: TorchScalarVariable
@@ -1782,7 +1585,6 @@ input_variables:
     value_range:
     - -33.887779235839844
     - -15.789875030517578
-    value_range_tolerance: 1.0e-08
     units: deg 2856 MHz
   ACCL:LI21:180:L1X_S_PV:
     variable_class: TorchScalarVariable
@@ -1791,7 +1593,6 @@ input_variables:
     value_range:
     - -175.42947387695312
     - -156.74661254882812
-    value_range_tolerance: 1.0e-08
     units: deg 11.424 GHz
   ACCL:LI22:1:PDES:
     variable_class: TorchScalarVariable
@@ -1800,7 +1601,6 @@ input_variables:
     value_range:
     - -44.52250289916992
     - -26.240581512451172
-    value_range_tolerance: 1.0e-08
     units: Degrees
   CAMR:IN20:186:XRMS:
     variable_class: TorchScalarVariable
@@ -1809,7 +1609,6 @@ input_variables:
     value_range:
     - 250.59193420410156
     - 379.858154296875
-    value_range_tolerance: 1.0e-08
     units: um
   CAMR:IN20:186:YRMS:
     variable_class: TorchScalarVariable
@@ -1818,7 +1617,6 @@ input_variables:
     value_range:
     - 251.82470703125
     - 377.97906494140625
-    value_range_tolerance: 1.0e-08
     units: um
   BLEN:LI21:265:AIMAX1H:
     variable_class: TorchScalarVariable
@@ -1827,7 +1625,6 @@ input_variables:
     value_range:
     - 21.628271102905273
     - 295.4963073730469
-    value_range_tolerance: 1.0e-08
     units: A
   BLEN:LI24:886:BIMAX1H:
     variable_class: TorchScalarVariable
@@ -1836,7 +1633,6 @@ input_variables:
     value_range:
     - 1230.0247802734375
     - 5643.43408203125
-    value_range_tolerance: 1.0e-08
     units: A
   SIOC:SYS0:ML00:CALC038:
     variable_class: TorchScalarVariable
@@ -1845,7 +1641,6 @@ input_variables:
     value_range:
     - 240.00051879882812
     - 274.9855651855469
-    value_range_tolerance: 1.0e-08
     units: pC
   SIOC:SYS0:ML00:CALC252:
     variable_class: TorchScalarVariable
@@ -1854,7 +1649,6 @@ input_variables:
     value_range:
     - 0.0
     - 199.99745178222656
-    value_range_tolerance: 1.0e-08
     units: pC
   BEND:DMPH:400:BCTRL:
     variable_class: TorchScalarVariable
@@ -1863,7 +1657,6 @@ input_variables:
     value_range:
     - 10.514976501464844
     - 10.789048194885254
-    value_range_tolerance: 1.0e-08
     units: GeV/c
   SIOC:SYS0:ML00:AO627:
     variable_class: TorchScalarVariable
@@ -1872,7 +1665,6 @@ input_variables:
     value_range:
     - 9500.0078125
     - 9999.8466796875
-    value_range_tolerance: 1.0e-08
     units: eV
   XCOR:UNDH:1380:BCTRL:
     variable_class: TorchScalarVariable
@@ -1881,7 +1673,6 @@ input_variables:
     value_range:
     - -0.0009821036364883184
     - 0.0009955056011676788
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:1480:BCTRL:
     variable_class: TorchScalarVariable
@@ -1890,7 +1681,6 @@ input_variables:
     value_range:
     - -0.0002964562445413321
     - 0.000836852181237191
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:1580:BCTRL:
     variable_class: TorchScalarVariable
@@ -1899,7 +1689,6 @@ input_variables:
     value_range:
     - -0.0003992630518041551
     - 0.000698764924891293
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:1680:BCTRL:
     variable_class: TorchScalarVariable
@@ -1908,7 +1697,6 @@ input_variables:
     value_range:
     - -0.0002583581954240799
     - 0.0002874867932405323
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:1780:BCTRL:
     variable_class: TorchScalarVariable
@@ -1917,7 +1705,6 @@ input_variables:
     value_range:
     - -0.0005246761720627546
     - 0.00040158562478609383
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:1880:BCTRL:
     variable_class: TorchScalarVariable
@@ -1926,7 +1713,6 @@ input_variables:
     value_range:
     - -0.0003737287479452789
     - 0.0003176488680765033
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:1980:BCTRL:
     variable_class: TorchScalarVariable
@@ -1935,7 +1721,6 @@ input_variables:
     value_range:
     - -0.000429774314397946
     - 0.0005280743353068829
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2080:BCTRL:
     variable_class: TorchScalarVariable
@@ -1944,7 +1729,6 @@ input_variables:
     value_range:
     - -0.0004994860501028597
     - 0.0009310322348028421
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2180:BCTRL:
     variable_class: TorchScalarVariable
@@ -1953,7 +1737,6 @@ input_variables:
     value_range:
     - -0.0007958629867061973
     - 0.0009633363224565983
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2280:BCTRL:
     variable_class: TorchScalarVariable
@@ -1962,7 +1745,6 @@ input_variables:
     value_range:
     - -0.0006120636244304478
     - 0.0005776818725280464
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2380:BCTRL:
     variable_class: TorchScalarVariable
@@ -1971,7 +1753,6 @@ input_variables:
     value_range:
     - -0.0002869816089514643
     - 0.0002396650961600244
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2480:BCTRL:
     variable_class: TorchScalarVariable
@@ -1980,7 +1761,6 @@ input_variables:
     value_range:
     - -0.0006338375387713313
     - 0.00015527963114436716
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2580:BCTRL:
     variable_class: TorchScalarVariable
@@ -1989,7 +1769,6 @@ input_variables:
     value_range:
     - -0.0003280419623479247
     - 0.0002896543883252889
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2680:BCTRL:
     variable_class: TorchScalarVariable
@@ -1998,7 +1777,6 @@ input_variables:
     value_range:
     - -0.00016108786803670228
     - 0.0005595804541371763
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2007,7 +1785,6 @@ input_variables:
     value_range:
     - -0.0008402586099691689
     - 0.0005265165818855166
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2880:BCTRL:
     variable_class: TorchScalarVariable
@@ -2016,7 +1793,6 @@ input_variables:
     value_range:
     - -0.000255841325270012
     - 0.0009620104683563113
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:2980:BCTRL:
     variable_class: TorchScalarVariable
@@ -2025,7 +1801,6 @@ input_variables:
     value_range:
     - -0.000788069621194154
     - 0.00013974700414109975
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3080:BCTRL:
     variable_class: TorchScalarVariable
@@ -2034,7 +1809,6 @@ input_variables:
     value_range:
     - -0.0003647462581284344
     - 7.703727169428021e-05
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3180:BCTRL:
     variable_class: TorchScalarVariable
@@ -2043,7 +1817,6 @@ input_variables:
     value_range:
     - -0.000600970524828881
     - 0.00024407422461081296
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3280:BCTRL:
     variable_class: TorchScalarVariable
@@ -2052,7 +1825,6 @@ input_variables:
     value_range:
     - -0.0008363833767361939
     - 0.0003439175197854638
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3380:BCTRL:
     variable_class: TorchScalarVariable
@@ -2061,7 +1833,6 @@ input_variables:
     value_range:
     - -0.00027618854073807597
     - 0.0002918792306445539
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3480:BCTRL:
     variable_class: TorchScalarVariable
@@ -2070,7 +1841,6 @@ input_variables:
     value_range:
     - -0.00026849121786653996
     - 0.0005286589730530977
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3580:BCTRL:
     variable_class: TorchScalarVariable
@@ -2079,7 +1849,6 @@ input_variables:
     value_range:
     - -0.0004505771794356406
     - 0.00020057357323821634
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3680:BCTRL:
     variable_class: TorchScalarVariable
@@ -2088,7 +1857,6 @@ input_variables:
     value_range:
     - -0.00022451893892139196
     - 0.00032661628210917115
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2097,7 +1865,6 @@ input_variables:
     value_range:
     - -0.00045030718320049345
     - 0.0005812929593957961
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3880:BCTRL:
     variable_class: TorchScalarVariable
@@ -2106,7 +1873,6 @@ input_variables:
     value_range:
     - -0.00025016232393682003
     - 0.0002342849038541317
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:3980:BCTRL:
     variable_class: TorchScalarVariable
@@ -2115,7 +1881,6 @@ input_variables:
     value_range:
     - -0.000595622812397778
     - 0.0004537559289019555
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4080:BCTRL:
     variable_class: TorchScalarVariable
@@ -2124,7 +1889,6 @@ input_variables:
     value_range:
     - -0.00026854994939640164
     - 6.59581201034598e-05
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4180:BCTRL:
     variable_class: TorchScalarVariable
@@ -2133,7 +1897,6 @@ input_variables:
     value_range:
     - -0.000695984810590744
     - 0.0005792076117359102
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4280:BCTRL:
     variable_class: TorchScalarVariable
@@ -2142,7 +1905,6 @@ input_variables:
     value_range:
     - -0.0006600914057344198
     - 0.0008707446977496147
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4380:BCTRL:
     variable_class: TorchScalarVariable
@@ -2151,7 +1913,6 @@ input_variables:
     value_range:
     - -0.0006451521185226738
     - 0.0009396484238095582
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4480:BCTRL:
     variable_class: TorchScalarVariable
@@ -2160,7 +1921,6 @@ input_variables:
     value_range:
     - -0.0003751741605810821
     - 0.0006930948002263904
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4580:BCTRL:
     variable_class: TorchScalarVariable
@@ -2169,7 +1929,6 @@ input_variables:
     value_range:
     - -0.0009115072898566723
     - 0.0009999098256230354
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4680:BCTRL:
     variable_class: TorchScalarVariable
@@ -2178,7 +1937,6 @@ input_variables:
     value_range:
     - -0.0009910506196320057
     - 0.000999510521069169
-    value_range_tolerance: 1.0e-08
     units: kG-m
   XCOR:UNDH:4780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2187,7 +1945,6 @@ input_variables:
     value_range:
     - -0.0007537493947893381
     - 0.0002590437652543187
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1380:BCTRL:
     variable_class: TorchScalarVariable
@@ -2196,7 +1953,6 @@ input_variables:
     value_range:
     - -0.0007998915389180183
     - 0.002322693355381489
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1480:BCTRL:
     variable_class: TorchScalarVariable
@@ -2205,7 +1961,6 @@ input_variables:
     value_range:
     - -0.001001303200609982
     - 0.0020921085961163044
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1580:BCTRL:
     variable_class: TorchScalarVariable
@@ -2214,7 +1969,6 @@ input_variables:
     value_range:
     - -0.0011799116618931293
     - 0.0010067607508972287
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1680:BCTRL:
     variable_class: TorchScalarVariable
@@ -2223,7 +1977,6 @@ input_variables:
     value_range:
     - -0.0009916082490235567
     - 0.0007648301543667912
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2232,7 +1985,6 @@ input_variables:
     value_range:
     - -0.00043671546154655516
     - 0.00047224925947375596
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1880:BCTRL:
     variable_class: TorchScalarVariable
@@ -2241,7 +1993,6 @@ input_variables:
     value_range:
     - -0.0005957565153948963
     - 0.0011087642051279545
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:1980:BCTRL:
     variable_class: TorchScalarVariable
@@ -2250,7 +2001,6 @@ input_variables:
     value_range:
     - -0.00016657126252539456
     - 0.000654485949780792
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2080:BCTRL:
     variable_class: TorchScalarVariable
@@ -2259,7 +2009,6 @@ input_variables:
     value_range:
     - -0.0005237142322584987
     - 0.0015063132159411907
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2180:BCTRL:
     variable_class: TorchScalarVariable
@@ -2268,7 +2017,6 @@ input_variables:
     value_range:
     - -0.000575279991608113
     - 0.0008172884117811918
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2280:BCTRL:
     variable_class: TorchScalarVariable
@@ -2277,7 +2025,6 @@ input_variables:
     value_range:
     - -0.0006034813122823834
     - 0.0005024568527005613
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2380:BCTRL:
     variable_class: TorchScalarVariable
@@ -2286,7 +2033,6 @@ input_variables:
     value_range:
     - -0.00027631359989754856
     - 0.00037451452226378024
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2480:BCTRL:
     variable_class: TorchScalarVariable
@@ -2295,7 +2041,6 @@ input_variables:
     value_range:
     - -0.00037303115823306143
     - 0.0004823935159947723
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2580:BCTRL:
     variable_class: TorchScalarVariable
@@ -2304,7 +2049,6 @@ input_variables:
     value_range:
     - -0.000279325497103855
     - 0.00023415032774209976
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2680:BCTRL:
     variable_class: TorchScalarVariable
@@ -2313,7 +2057,6 @@ input_variables:
     value_range:
     - -0.0005424672272056341
     - 0.0003341590636409819
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2322,7 +2065,6 @@ input_variables:
     value_range:
     - -0.0006376646342687309
     - 0.0002725540252868086
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2880:BCTRL:
     variable_class: TorchScalarVariable
@@ -2331,7 +2073,6 @@ input_variables:
     value_range:
     - -0.00047650589840486646
     - 0.0005619300645776093
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:2980:BCTRL:
     variable_class: TorchScalarVariable
@@ -2340,7 +2081,6 @@ input_variables:
     value_range:
     - -0.0004848685930483043
     - 0.0004569693701341748
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3080:BCTRL:
     variable_class: TorchScalarVariable
@@ -2349,7 +2089,6 @@ input_variables:
     value_range:
     - -0.0007536783814430237
     - 0.00027199735632166266
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3180:BCTRL:
     variable_class: TorchScalarVariable
@@ -2358,7 +2097,6 @@ input_variables:
     value_range:
     - -0.0004203379503451288
     - 0.00025513191940262914
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3280:BCTRL:
     variable_class: TorchScalarVariable
@@ -2367,7 +2105,6 @@ input_variables:
     value_range:
     - -0.0006829249323345721
     - 0.0004671179340220988
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3380:BCTRL:
     variable_class: TorchScalarVariable
@@ -2376,7 +2113,6 @@ input_variables:
     value_range:
     - -0.0003889016225002706
     - 0.000672376190777868
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3480:BCTRL:
     variable_class: TorchScalarVariable
@@ -2385,7 +2121,6 @@ input_variables:
     value_range:
     - -0.0005380988586694002
     - 0.0007592468173243105
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3580:BCTRL:
     variable_class: TorchScalarVariable
@@ -2394,7 +2129,6 @@ input_variables:
     value_range:
     - -0.00022893176355864853
     - 0.0005933999782428145
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3680:BCTRL:
     variable_class: TorchScalarVariable
@@ -2403,7 +2137,6 @@ input_variables:
     value_range:
     - -0.0004956517950631678
     - 0.00038829297409392893
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2412,7 +2145,6 @@ input_variables:
     value_range:
     - -0.0008113833609968424
     - 0.0005073792999610305
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3880:BCTRL:
     variable_class: TorchScalarVariable
@@ -2421,7 +2153,6 @@ input_variables:
     value_range:
     - -0.001201955950818956
     - 0.0003546945517882705
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:3980:BCTRL:
     variable_class: TorchScalarVariable
@@ -2430,7 +2161,6 @@ input_variables:
     value_range:
     - -0.0003619982744567096
     - 0.00044134663767181337
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4080:BCTRL:
     variable_class: TorchScalarVariable
@@ -2439,7 +2169,6 @@ input_variables:
     value_range:
     - -0.00086312455823645
     - 0.0015412082429975271
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4180:BCTRL:
     variable_class: TorchScalarVariable
@@ -2448,7 +2177,6 @@ input_variables:
     value_range:
     - -0.000343025429174304
     - 0.0018032232765108347
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4280:BCTRL:
     variable_class: TorchScalarVariable
@@ -2457,7 +2185,6 @@ input_variables:
     value_range:
     - -0.0007666326127946377
     - 0.0016142847016453743
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4380:BCTRL:
     variable_class: TorchScalarVariable
@@ -2466,7 +2193,6 @@ input_variables:
     value_range:
     - -0.0002774629683699459
     - 0.0007250587223097682
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4480:BCTRL:
     variable_class: TorchScalarVariable
@@ -2475,7 +2201,6 @@ input_variables:
     value_range:
     - -0.0010996756609529257
     - 0.0009239603532478213
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4580:BCTRL:
     variable_class: TorchScalarVariable
@@ -2484,7 +2209,6 @@ input_variables:
     value_range:
     - -0.0007436369196511805
     - 0.0009525191853754222
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4680:BCTRL:
     variable_class: TorchScalarVariable
@@ -2493,7 +2217,6 @@ input_variables:
     value_range:
     - -0.0007205481524579227
     - 0.0007914139423519373
-    value_range_tolerance: 1.0e-08
     units: kG-m
   YCOR:UNDH:4780:BCTRL:
     variable_class: TorchScalarVariable
@@ -2502,7 +2225,6 @@ input_variables:
     value_range:
     - -0.0008967298199422657
     - 0.002440386451780796
-    value_range_tolerance: 1.0e-08
     units: kG-m
   PHAS:UNDH:1495:GapAct:
     variable_class: TorchScalarVariable
@@ -2511,7 +2233,6 @@ input_variables:
     value_range:
     - 12.887749671936035
     - 19.842500686645508
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:1595:GapAct:
     variable_class: TorchScalarVariable
@@ -2520,7 +2241,6 @@ input_variables:
     value_range:
     - 13.457249641418457
     - 19.69675064086914
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:1695:GapAct:
     variable_class: TorchScalarVariable
@@ -2529,7 +2249,6 @@ input_variables:
     value_range:
     - 13.475500106811523
     - 19.9375
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:1795:GapAct:
     variable_class: TorchScalarVariable
@@ -2538,7 +2257,6 @@ input_variables:
     value_range:
     - 13.711999893188477
     - 19.952749252319336
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:1895:GapAct:
     variable_class: TorchScalarVariable
@@ -2547,7 +2265,6 @@ input_variables:
     value_range:
     - 12.88325023651123
     - 21.66925048828125
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:1995:GapAct:
     variable_class: TorchScalarVariable
@@ -2556,7 +2273,6 @@ input_variables:
     value_range:
     - 13.025500297546387
     - 19.37700080871582
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2095:GapAct:
     variable_class: TorchScalarVariable
@@ -2565,7 +2281,6 @@ input_variables:
     value_range:
     - 12.039750099182129
     - 21.5627498626709
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2295:GapAct:
     variable_class: TorchScalarVariable
@@ -2574,7 +2289,6 @@ input_variables:
     value_range:
     - 15.122750282287598
     - 19.872249603271484
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2395:GapAct:
     variable_class: TorchScalarVariable
@@ -2583,7 +2297,6 @@ input_variables:
     value_range:
     - 15.775500297546387
     - 19.839000701904297
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2495:GapAct:
     variable_class: TorchScalarVariable
@@ -2592,7 +2305,6 @@ input_variables:
     value_range:
     - 15.794549942016602
     - 19.753049850463867
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2595:GapAct:
     variable_class: TorchScalarVariable
@@ -2601,7 +2313,6 @@ input_variables:
     value_range:
     - 15.999750137329102
     - 19.761249542236328
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2695:GapAct:
     variable_class: TorchScalarVariable
@@ -2610,7 +2321,6 @@ input_variables:
     value_range:
     - 15.70300006866455
     - 19.62350082397461
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2795:GapAct:
     variable_class: TorchScalarVariable
@@ -2619,7 +2329,6 @@ input_variables:
     value_range:
     - 12.000499725341797
     - 21.482999801635742
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:2995:GapAct:
     variable_class: TorchScalarVariable
@@ -2628,7 +2337,6 @@ input_variables:
     value_range:
     - 15.177499771118164
     - 19.37299919128418
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3095:GapAct:
     variable_class: TorchScalarVariable
@@ -2637,7 +2345,6 @@ input_variables:
     value_range:
     - 15.979000091552734
     - 19.485000610351562
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3195:GapAct:
     variable_class: TorchScalarVariable
@@ -2646,7 +2353,6 @@ input_variables:
     value_range:
     - 16.09025001525879
     - 19.515750885009766
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3295:GapAct:
     variable_class: TorchScalarVariable
@@ -2655,7 +2361,6 @@ input_variables:
     value_range:
     - 16.107749938964844
     - 19.400249481201172
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3395:GapAct:
     variable_class: TorchScalarVariable
@@ -2664,7 +2369,6 @@ input_variables:
     value_range:
     - 15.645050048828125
     - 19.246299743652344
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3495:GapAct:
     variable_class: TorchScalarVariable
@@ -2673,7 +2377,6 @@ input_variables:
     value_range:
     - 15.306249618530273
     - 19.056499481201172
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3595:GapAct:
     variable_class: TorchScalarVariable
@@ -2682,7 +2385,6 @@ input_variables:
     value_range:
     - 16.104000091552734
     - 19.414499282836914
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3695:GapAct:
     variable_class: TorchScalarVariable
@@ -2691,7 +2393,6 @@ input_variables:
     value_range:
     - 15.976799964904785
     - 19.209800720214844
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3795:GapAct:
     variable_class: TorchScalarVariable
@@ -2700,7 +2401,6 @@ input_variables:
     value_range:
     - 16.036500930786133
     - 19.357749938964844
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3895:GapAct:
     variable_class: TorchScalarVariable
@@ -2709,7 +2409,6 @@ input_variables:
     value_range:
     - 15.628000259399414
     - 19.13425064086914
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:3995:GapAct:
     variable_class: TorchScalarVariable
@@ -2718,7 +2417,6 @@ input_variables:
     value_range:
     - 15.836750030517578
     - 19.548749923706055
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4095:GapAct:
     variable_class: TorchScalarVariable
@@ -2727,7 +2425,6 @@ input_variables:
     value_range:
     - 15.634499549865723
     - 19.4377498626709
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4195:GapAct:
     variable_class: TorchScalarVariable
@@ -2736,7 +2433,6 @@ input_variables:
     value_range:
     - 15.929499626159668
     - 19.74074935913086
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4295:GapAct:
     variable_class: TorchScalarVariable
@@ -2745,7 +2441,6 @@ input_variables:
     value_range:
     - 16.04924964904785
     - 19.942249298095703
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4395:GapAct:
     variable_class: TorchScalarVariable
@@ -2754,7 +2449,6 @@ input_variables:
     value_range:
     - 16.163249969482422
     - 20.100000381469727
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4495:GapAct:
     variable_class: TorchScalarVariable
@@ -2763,7 +2457,6 @@ input_variables:
     value_range:
     - 16.167049407958984
     - 20.292800903320312
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4595:GapAct:
     variable_class: TorchScalarVariable
@@ -2772,7 +2465,6 @@ input_variables:
     value_range:
     - 16.056249618530273
     - 20.256500244140625
-    value_range_tolerance: 1.0e-08
     units: mm
   PHAS:UNDH:4695:GapAct:
     variable_class: TorchScalarVariable
@@ -2781,7 +2473,6 @@ input_variables:
     value_range:
     - 16.15974998474121
     - 20.651500701904297
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:1450:GapAct:
     variable_class: TorchScalarVariable
@@ -2790,7 +2481,6 @@ input_variables:
     value_range:
     - 7.279615879058838
     - 7.818066120147705
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:1550:GapAct:
     variable_class: TorchScalarVariable
@@ -2799,7 +2489,6 @@ input_variables:
     value_range:
     - 7.224699974060059
     - 7.689549922943115
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:1650:GapAct:
     variable_class: TorchScalarVariable
@@ -2808,7 +2497,6 @@ input_variables:
     value_range:
     - 7.26485013961792
     - 7.781050205230713
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:1750:GapAct:
     variable_class: TorchScalarVariable
@@ -2817,7 +2505,6 @@ input_variables:
     value_range:
     - 7.26800012588501
     - 7.856249809265137
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:1850:GapAct:
     variable_class: TorchScalarVariable
@@ -2826,7 +2513,6 @@ input_variables:
     value_range:
     - 7.281449794769287
     - 7.713500022888184
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:1950:GapAct:
     variable_class: TorchScalarVariable
@@ -2835,7 +2521,6 @@ input_variables:
     value_range:
     - 7.2893500328063965
     - 7.892950057983398
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2050:GapAct:
     variable_class: TorchScalarVariable
@@ -2844,7 +2529,6 @@ input_variables:
     value_range:
     - 7.33489990234375
     - 7.853750228881836
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2250:GapAct:
     variable_class: TorchScalarVariable
@@ -2853,7 +2537,6 @@ input_variables:
     value_range:
     - 7.302999973297119
     - 7.526899814605713
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2350:GapAct:
     variable_class: TorchScalarVariable
@@ -2862,7 +2545,6 @@ input_variables:
     value_range:
     - 7.261600017547607
     - 7.484300136566162
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2450:GapAct:
     variable_class: TorchScalarVariable
@@ -2871,7 +2553,6 @@ input_variables:
     value_range:
     - 7.315549850463867
     - 7.534749984741211
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2550:GapAct:
     variable_class: TorchScalarVariable
@@ -2880,7 +2561,6 @@ input_variables:
     value_range:
     - 7.2970499992370605
     - 7.513150215148926
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2650:GapAct:
     variable_class: TorchScalarVariable
@@ -2889,7 +2569,6 @@ input_variables:
     value_range:
     - 7.300250053405762
     - 7.513599872589111
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2750:GapAct:
     variable_class: TorchScalarVariable
@@ -2898,7 +2577,6 @@ input_variables:
     value_range:
     - 7.271550178527832
     - 7.478300094604492
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:2950:GapAct:
     variable_class: TorchScalarVariable
@@ -2907,7 +2585,6 @@ input_variables:
     value_range:
     - 7.263750076293945
     - 7.472449779510498
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3050:GapAct:
     variable_class: TorchScalarVariable
@@ -2916,7 +2593,6 @@ input_variables:
     value_range:
     - 7.3042497634887695
     - 7.509349822998047
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3150:GapAct:
     variable_class: TorchScalarVariable
@@ -2925,7 +2601,6 @@ input_variables:
     value_range:
     - 7.274099826812744
     - 7.476900100708008
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3250:GapAct:
     variable_class: TorchScalarVariable
@@ -2934,7 +2609,6 @@ input_variables:
     value_range:
     - 7.216700077056885
     - 7.415649890899658
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3350:GapAct:
     variable_class: TorchScalarVariable
@@ -2943,7 +2617,6 @@ input_variables:
     value_range:
     - 7.26455020904541
     - 7.462900161743164
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3450:GapAct:
     variable_class: TorchScalarVariable
@@ -2952,7 +2625,6 @@ input_variables:
     value_range:
     - 7.296596050262451
     - 7.490096092224121
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3550:GapAct:
     variable_class: TorchScalarVariable
@@ -2961,7 +2633,6 @@ input_variables:
     value_range:
     - 7.273449897766113
     - 7.786499977111816
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3650:GapAct:
     variable_class: TorchScalarVariable
@@ -2970,7 +2641,6 @@ input_variables:
     value_range:
     - 7.241399765014648
     - 7.441450119018555
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3750:GapAct:
     variable_class: TorchScalarVariable
@@ -2979,7 +2649,6 @@ input_variables:
     value_range:
     - 7.298250198364258
     - 7.496600151062012
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3850:GapAct:
     variable_class: TorchScalarVariable
@@ -2988,7 +2657,6 @@ input_variables:
     value_range:
     - 7.329649925231934
     - 7.530849933624268
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:3950:GapAct:
     variable_class: TorchScalarVariable
@@ -2997,7 +2665,6 @@ input_variables:
     value_range:
     - 7.278649806976318
     - 7.482250213623047
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4050:GapAct:
     variable_class: TorchScalarVariable
@@ -3006,7 +2673,6 @@ input_variables:
     value_range:
     - 7.3043999671936035
     - 7.512650012969971
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4150:GapAct:
     variable_class: TorchScalarVariable
@@ -3015,7 +2681,6 @@ input_variables:
     value_range:
     - 7.280350208282471
     - 7.491950035095215
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4250:GapAct:
     variable_class: TorchScalarVariable
@@ -3024,7 +2689,6 @@ input_variables:
     value_range:
     - 7.328199863433838
     - 7.5457000732421875
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4350:GapAct:
     variable_class: TorchScalarVariable
@@ -3033,7 +2697,6 @@ input_variables:
     value_range:
     - 7.29925012588501
     - 7.521850109100342
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4450:GapAct:
     variable_class: TorchScalarVariable
@@ -3042,7 +2705,6 @@ input_variables:
     value_range:
     - 7.27554988861084
     - 7.502200126647949
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4550:GapAct:
     variable_class: TorchScalarVariable
@@ -3051,7 +2713,6 @@ input_variables:
     value_range:
     - 7.259799957275391
     - 7.48829984664917
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4650:GapAct:
     variable_class: TorchScalarVariable
@@ -3060,7 +2721,6 @@ input_variables:
     value_range:
     - 7.28754997253418
     - 7.523250102996826
-    value_range_tolerance: 1.0e-08
     units: mm
   USEG:UNDH:4750:GapAct:
     variable_class: TorchScalarVariable
@@ -3069,7 +2729,6 @@ input_variables:
     value_range:
     - 7.395750045776367
     - 7.641449928283691
-    value_range_tolerance: 1.0e-08
     units: mm
 model: resources/lcls_fel_final_model_cpu.pt
 model_class: TorchModule
@@ -3077,8 +2736,7 @@ output_format: tensor
 output_transformers:
 - resources/lcls_fel_output_scaler.pt
 output_variables:
-  hxr_pulse_intensity:
+  GDET:FEE1:241:ENRC:
     read_only: false
-    value_range_tolerance: 1.0e-08
     variable_class: TorchScalarVariable
 precision: double
