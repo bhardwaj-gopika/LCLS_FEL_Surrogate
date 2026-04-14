@@ -2739,4 +2739,5 @@ output_variables:
   GDET:FEE1:241:ENRC:
     read_only: false
     variable_class: TorchScalarVariable
+    units: mJ
 precision: double
